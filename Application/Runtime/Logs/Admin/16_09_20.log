@@ -1,0 +1,780 @@
+[ 2016-09-20T00:01:40+08:00 ] ::1 /tp/admin.php/Admin/Article/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001171s ]
+
+[ 2016-09-20T00:01:40+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000991s ]
+
+[ 2016-09-20T00:01:42+08:00 ] ::1 /tp/admin.php/Admin/Blog/addblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+
+[ 2016-09-20T00:01:46+08:00 ] ::1 /tp/admin.php/Admin/Blog/showaddblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+
+[ 2016-09-20T00:03:24+08:00 ] ::1 /tp/admin.php/Admin/Blog/showaddblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2016-09-20T00:04:13+08:00 ] ::1 /tp/admin.php/Admin/Blog/showaddblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+
+[ 2016-09-20T00:06:40+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+
+[ 2016-09-20T00:07:09+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2016-09-20T00:07:20+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+
+[ 2016-09-20T00:07:32+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+
+[ 2016-09-20T00:07:39+08:00 ] ::1 /tp/admin.php/Admin/Blog/addblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+
+[ 2016-09-20T00:07:44+08:00 ] ::1 /tp/admin.php/Admin/Blog/showaddblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+
+[ 2016-09-20T00:07:45+08:00 ] ::1 /tp/admin.php/Admin/blog/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+
+[ 2016-09-20T00:07:45+08:00 ] ::1 /tp/admin.php/Admin/blog/upload/image/20160920/57e00d50836ad.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+
+[ 2016-09-20T09:50:13+08:00 ] ::1 /tp/admin.php/Admin/Article/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009966s ]
+
+[ 2016-09-20T09:50:14+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+
+[ 2016-09-20T09:50:14+08:00 ] ::1 /tp/admin.php/Admin/Blog/upload/image/20160920/57e00d50836ad.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+
+[ 2016-09-20T09:50:30+08:00 ] ::1 /tp/admin.php/Admin/Blog/upload/image/20160920/57e00d50836ad.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000825s ]
+
+[ 2016-09-20T09:50:34+08:00 ] ::1 /tp/admin.php/Admin/Blog/upload/image/20160920/57e00d50836ad.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2016-09-20T09:50:35+08:00 ] ::1 /tp/admin.php/Admin/Blog/upload/image/20160920/57e00d50836ad.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+
+[ 2016-09-20T09:50:35+08:00 ] ::1 /tp/admin.php/Admin/Blog/upload/image/20160920/57e00d50836ad.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+
+[ 2016-09-20T09:50:36+08:00 ] ::1 /tp/admin.php/Admin/Blog/upload/image/20160920/57e00d50836ad.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2016-09-20T09:50:36+08:00 ] ::1 /tp/admin.php/Admin/Blog/upload/image/20160920/57e00d50836ad.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2016-09-20T09:56:14+08:00 ] ::1 /tp/admin.php/Admin/Blog/moveblog/blog_id/22.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2016-09-20T09:56:15+08:00 ] ::1 /tp/admin.php/Admin/blog/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2016-09-20T09:56:15+08:00 ] ::1 /tp/admin.php/Admin/blog/upload/image/20160920/57e00d50836ad.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+
+[ 2016-09-20T09:56:16+08:00 ] ::1 /tp/admin.php/Admin/Blog/moveblog/blog_id/23.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+
+[ 2016-09-20T09:56:17+08:00 ] ::1 /tp/admin.php/Admin/blog/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2016-09-20T09:59:07+08:00 ] ::1 /tp/admin.php/Admin/Cate/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2016-09-20T09:59:12+08:00 ] ::1 /tp/admin.php/Admin/Attribute/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+
+[ 2016-09-20T09:59:16+08:00 ] ::1 /tp/admin.php/Admin/Attribute/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2016-09-20T09:59:18+08:00 ] ::1 /tp/admin.php/Admin/Cate/typesort
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+
+[ 2016-09-20T09:59:22+08:00 ] ::1 /tp/admin.php/Admin/Attribute/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+
+[ 2016-09-20T09:59:24+08:00 ] ::1 /tp/admin.php/Admin/Attribute/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2016-09-20T09:59:26+08:00 ] ::1 /tp/admin.php/Admin/Attribute/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2016-09-20T09:59:27+08:00 ] ::1 /tp/admin.php/Admin/Attribute/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2016-09-20T09:59:36+08:00 ] ::1 /tp/admin.php/Admin/Attribute/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+
+[ 2016-09-20T09:59:38+08:00 ] ::1 /tp/admin.php/Admin/Attribute/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2016-09-20T09:59:45+08:00 ] ::1 /tp/admin.php/Admin/Attribute/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2016-09-20T09:59:46+08:00 ] ::1 /tp/admin.php/Admin/Attribute/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+
+[ 2016-09-20T10:01:02+08:00 ] ::1 /tp/admin.php/Admin/Blog/upload/image/20160920/57e00d50836ad.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000944s ]
+
+[ 2016-09-20T10:05:21+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+
+[ 2016-09-20T10:05:22+08:00 ] ::1 /tp/admin.php/Admin/Blog/addblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2016-09-20T10:06:08+08:00 ] ::1 /tp/admin.php/Admin/Article/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+
+[ 2016-09-20T10:06:08+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2016-09-20T10:06:10+08:00 ] ::1 /tp/admin.php/Admin/Blog/addblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2016-09-20T10:11:32+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2016-09-20T10:11:35+08:00 ] ::1 /tp/admin.php/Admin/Blog/recoveryblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2016-09-20T10:11:38+08:00 ] ::1 /tp/admin.php/Admin/Blog/deleteblog/bid/22.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2016-09-20T10:11:39+08:00 ] ::1 /tp/admin.php/Admin/blog/recoveryblog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+
+[ 2016-09-20T10:11:40+08:00 ] ::1 /tp/admin.php/Admin/Blog/deleteblog/bid/23.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+
+[ 2016-09-20T10:11:42+08:00 ] ::1 /tp/admin.php/Admin/blog/recoveryblog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+
+[ 2016-09-20T10:11:43+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2016-09-20T10:13:01+08:00 ] ::1 /tp/admin.php/Admin/Blog/moveblog/blog_id/21.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2016-09-20T10:13:02+08:00 ] ::1 /tp/admin.php/Admin/blog/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2016-09-20T10:22:25+08:00 ] ::1 /tp/admin.php/Admin/Blog/addblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2016-09-20T10:23:18+08:00 ] ::1 /tp/admin.php/Admin/Blog/showaddblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2016-09-20T10:23:20+08:00 ] ::1 /tp/admin.php/Admin/blog/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000974s ]
+
+[ 2016-09-20T10:23:20+08:00 ] ::1 /tp/admin.php/Admin/blog/upload/image/20160920/57e09d9685c8f.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001974s ]
+
+[ 2016-09-20T10:25:08+08:00 ] ::1 /tp/admin.php/Admin/Article/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2016-09-20T10:25:08+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001169s ]
+
+[ 2016-09-20T10:25:08+08:00 ] ::1 /tp/admin.php/Admin/Blog/upload/image/20160920/57e09d9685c8f.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000866s ]
+
+[ 2016-09-20T10:25:19+08:00 ] ::1 /tp/admin.php/Admin/Blog/upload/image/20160920/57e09d9685c8f.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+
+[ 2016-09-20T10:25:31+08:00 ] ::1 /tp/admin.php/Admin/Blog/public/upload/image/20160920/57e09d9685c8f.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+
+[ 2016-09-20T10:25:34+08:00 ] ::1 /tp/admin.php/Admin/Blog/public/upload/image/20160920/57e09d9685c8f.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+
+[ 2016-09-20T10:27:39+08:00 ] ::1 /tp/admin.php/Admin/Blog/addblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+
+[ 2016-09-20T10:27:46+08:00 ] ::1 /tp/admin.php/Admin/Blog/showaddblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2016-09-20T10:27:47+08:00 ] ::1 /tp/admin.php/Admin/blog/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2016-09-20T10:27:48+08:00 ] ::1 /tp/admin.php/Admin/blog/upload/image/20160920/57e09d9685c8f.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000840s ]
+
+[ 2016-09-20T10:27:48+08:00 ] ::1 /tp/admin.php/Admin/blog/public/upload/image/20160920/57e09ea2766e5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000870s ]
+
+[ 2016-09-20T10:27:59+08:00 ] ::1 /tp/admin.php/Admin/blog/public/upload/image/20160920/57e09ea2766e5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2016-09-20T10:28:02+08:00 ] ::1 /tp/admin.php/Admin/blog/public/upload/image/20160920/57e09ea2766e5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+
+[ 2016-09-20T10:31:11+08:00 ] ::1 /tp/admin.php/Admin/Article/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+
+[ 2016-09-20T10:31:12+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000946s ]
+
+[ 2016-09-20T10:31:12+08:00 ] ::1 /tp/admin.php/Admin/Blog/upload/image/20160920/57e09d9685c8f.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000921s ]
+
+[ 2016-09-20T10:31:12+08:00 ] ::1 /tp/admin.php/Admin/Blog/public/upload/image/20160920/57e09ea2766e5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001002s ]
+
+[ 2016-09-20T10:31:36+08:00 ] ::1 /tp/admin.php/Admin/Blog/public/upload/image/20160920/57e09ea2766e5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2016-09-20T10:35:46+08:00 ] ::1 /tp/admin.php/Admin/Article/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+
+[ 2016-09-20T10:35:46+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+
+[ 2016-09-20T10:35:46+08:00 ] ::1 /tp/admin.php/Admin/Blog/public/upload/image/20160920/57e09ea2766e5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+
+[ 2016-09-20T10:35:47+08:00 ] ::1 /tp/admin.php/Admin/Blog/upload/image/20160920/57e09d9685c8f.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000941s ]
+
+[ 2016-09-20T10:35:48+08:00 ] ::1 /tp/admin.php/Admin/Blog/__Public__/upload/image/20160920/57e09d9685c8f.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+
+[ 2016-09-20T10:36:09+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2016-09-20T10:36:09+08:00 ] ::1 /tp/admin.php/Admin/Blog/upload/image/20160920/57e09d9685c8f.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001307s ]
+
+[ 2016-09-20T10:36:09+08:00 ] ::1 /tp/admin.php/Admin/Blog/public/upload/image/20160920/57e09ea2766e5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+
+[ 2016-09-20T10:36:15+08:00 ] ::1 /tp/admin.php/Admin/Blog/__Public__/public/upload/image/20160920/57e09ea2766e5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2016-09-20T10:38:18+08:00 ] ::1 /tp/admin.php/Admin/Blog/__Public__/upload/image/20160920/57e09d9685c8f.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000901s ]
+
+[ 2016-09-20T10:42:40+08:00 ] ::1 /tp/admin.php/Admin/Blog/addblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+
+[ 2016-09-20T10:42:46+08:00 ] ::1 /tp/admin.php/Admin/Blog/showaddblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2016-09-20T10:42:47+08:00 ] ::1 /tp/admin.php/Admin/blog/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2016-09-20T10:42:47+08:00 ] ::1 /tp/admin.php/Admin/blog/upload/image/20160920/57e09d9685c8f.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+
+[ 2016-09-20T10:42:47+08:00 ] ::1 /tp/admin.php/Admin/blog/public/upload/image/20160920/57e09ea2766e5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+
+[ 2016-09-20T10:42:59+08:00 ] ::1 /tp/admin.php/Admin/Blog/moveblog/blog_id/26.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2016-09-20T10:43:00+08:00 ] ::1 /tp/admin.php/Admin/blog/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+
+[ 2016-09-20T10:43:00+08:00 ] ::1 /tp/admin.php/Admin/blog/upload/image/20160920/57e09d9685c8f.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+
+[ 2016-09-20T10:43:00+08:00 ] ::1 /tp/admin.php/Admin/blog/public/upload/image/20160920/57e09ea2766e5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000798s ]
+
+[ 2016-09-20T10:43:02+08:00 ] ::1 /tp/admin.php/Admin/Blog/moveblog/blog_id/25.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+
+[ 2016-09-20T10:43:03+08:00 ] ::1 /tp/admin.php/Admin/blog/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2016-09-20T10:43:03+08:00 ] ::1 /tp/admin.php/Admin/blog/upload/image/20160920/57e09d9685c8f.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2016-09-20T10:43:36+08:00 ] ::1 /tp/admin.php/Admin/Blog/addblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2016-09-20T10:43:40+08:00 ] ::1 /tp/admin.php/Admin/Blog/showaddblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2016-09-20T10:43:41+08:00 ] ::1 /tp/admin.php/Admin/blog/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2016-09-20T10:43:41+08:00 ] ::1 /tp/admin.php/Admin/blog/upload/image/20160920/57e09d9685c8f.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2016-09-20T10:43:47+08:00 ] ::1 /tp/admin.php/Admin/Blog/moveblog/blog_id/27.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000868s ]
+
+[ 2016-09-20T10:43:48+08:00 ] ::1 /tp/admin.php/Admin/blog/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+
+[ 2016-09-20T10:43:48+08:00 ] ::1 /tp/admin.php/Admin/blog/upload/image/20160920/57e09d9685c8f.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2016-09-20T10:46:17+08:00 ] ::1 /tp/admin.php/Admin/Article/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+
+[ 2016-09-20T10:46:18+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+
+[ 2016-09-20T10:46:18+08:00 ] ::1 /tp/admin.php/Admin/Blog/upload/image/20160920/57e09d9685c8f.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2016-09-20T11:03:57+08:00 ] ::1 /tp/admin.php/Admin/Article/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+
+[ 2016-09-20T11:03:57+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000917s ]
+
+[ 2016-09-20T11:03:57+08:00 ] ::1 /tp/admin.php/Admin/Blog/upload/image/20160920/57e09d9685c8f.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2016-09-20T11:03:58+08:00 ] ::1 /tp/admin.php/Admin/Article/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+
+[ 2016-09-20T11:03:59+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001259s ]
+
+[ 2016-09-20T11:03:59+08:00 ] ::1 /tp/admin.php/Admin/Blog/upload/image/20160920/57e09d9685c8f.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+
+[ 2016-09-20T11:44:23+08:00 ] ::1 /tp/admin.php/Admin/Article/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+
+[ 2016-09-20T11:44:24+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000997s ]
+
+[ 2016-09-20T11:44:24+08:00 ] ::1 /tp/admin.php/Admin/Blog/upload/image/20160920/57e09d9685c8f.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2016-09-20T11:44:29+08:00 ] ::1 /tp/admin.php/Admin/Blog/changeblog/cblog_id/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2016-09-20T11:47:11+08:00 ] ::1 /tp/admin.php/Admin/Blog/showchangeblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+
+[ 2016-09-20T11:47:12+08:00 ] ::1 /tp/admin.php/Admin/blog/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+
+[ 2016-09-20T11:47:13+08:00 ] ::1 /tp/admin.php/Admin/blog/upload/image/20160920/57e0b13f84fc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+
+[ 2016-09-20T11:47:13+08:00 ] ::1 /tp/admin.php/Admin/blog/upload/image/20160920/57e09d9685c8f.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+
+[ 2016-09-20T11:47:22+08:00 ] ::1 /tp/admin.php/Admin/blog/upload/image/20160920/57e0b13f84fc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2016-09-20T12:09:54+08:00 ] ::1 /tp/admin.php/Admin/Article/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001084s ]
+
+[ 2016-09-20T12:09:54+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000988s ]
+
+[ 2016-09-20T12:24:03+08:00 ] ::1 /tp/admin.php/Admin/Article/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001154s ]
+
+[ 2016-09-20T12:24:03+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+
+[ 2016-09-20T12:28:29+08:00 ] ::1 /tp/admin.php/Admin/Article/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001017s ]
+
+[ 2016-09-20T12:28:30+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000897s ]
+
+[ 2016-09-20T12:30:08+08:00 ] ::1 /tp/admin.php/Admin/Blog/changeblog/cblog_id/18.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000854s ]
+
+[ 2016-09-20T12:30:31+08:00 ] ::1 /tp/admin.php/Admin/Blog/showchangeblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+
+[ 2016-09-20T12:30:33+08:00 ] ::1 /tp/admin.php/Admin/blog/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+
+[ 2016-09-20T12:30:37+08:00 ] ::1 /tp/admin.php/Admin/Blog/changeblog/cblog_id/15.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+
+[ 2016-09-20T12:30:45+08:00 ] ::1 /tp/admin.php/Admin/Blog/showchangeblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000888s ]
+
+[ 2016-09-20T12:30:46+08:00 ] ::1 /tp/admin.php/Admin/blog/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+
+[ 2016-09-20T12:30:56+08:00 ] ::1 /tp/admin.php/Admin/Attribute/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001071s ]
+
+[ 2016-09-20T12:30:57+08:00 ] ::1 /tp/admin.php/Admin/Attribute/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+
+[ 2016-09-20T12:30:59+08:00 ] ::1 /tp/admin.php/Admin/Cate/typesort
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2016-09-20T12:31:00+08:00 ] ::1 /tp/admin.php/Admin/Cate/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+
+[ 2016-09-20T12:31:01+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+
+[ 2016-09-20T12:31:02+08:00 ] ::1 /tp/admin.php/Admin/Blog/addblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000958s ]
+
+[ 2016-09-20T12:31:04+08:00 ] ::1 /tp/admin.php/Admin/Blog/recoveryblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+
+[ 2016-09-20T12:31:05+08:00 ] ::1 /tp/admin.php/Admin/Blog/addblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2016-09-20T12:31:05+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+
+[ 2016-09-20T21:20:30+08:00 ] ::1 /tp/admin.php/Admin/Article/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2016-09-20T21:20:31+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000849s ]
+
+[ 2016-09-20T21:20:40+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+
+[ 2016-09-20T21:20:41+08:00 ] ::1 /tp/admin.php/Admin/Blog/addblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+
+[ 2016-09-20T21:20:43+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+
+[ 2016-09-20T21:20:44+08:00 ] ::1 /tp/admin.php/Admin/Blog/addblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+
+[ 2016-09-20T23:51:19+08:00 ] ::1 /tp/admin.php/Admin/Article/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+
+[ 2016-09-20T23:51:19+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+
+[ 2016-09-20T23:51:22+08:00 ] ::1 /tp/admin.php/Admin/Blog/addblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2016-09-20T23:58:05+08:00 ] ::1 /tp/admin.php/Admin/Blog/showaddblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+
+[ 2016-09-20T23:58:07+08:00 ] ::1 /tp/admin.php/Admin/blog/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000811s ]
+

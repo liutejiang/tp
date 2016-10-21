@@ -1,0 +1,17 @@
+[ 2016-07-17T21:24:36+08:00 ] ::1 /tp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.029222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.029299s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035445s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035520s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.024969s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.025031s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.033845s ]
+INFO: [ app_end ] --END-- [ RunTime:0.033920s ]
+

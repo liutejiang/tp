@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<css file="__PUBLIC__/Css/public.css" />
+</head>
+<body>
+ <table class="table">
+ <tr>
+  <th>图片</th>
+  <th>ID</th>
+  <th>标题</th>
+  <th>属性</th>
+  <th>点击次数</th>
+  <th>发布时间</th>
+  <th>操作</th>
+ </tr>
+ <foreach name="blog" item="v">
+ <tr>
+ <td><a href="__PUBLIC__/{$v.picture}"><image src="__PUBLIC__/{$v.picture}" width="20px" height="30px"></image></td>
+  <td>{$v.id}</td>
+  <td>
+  {$v.title}
+  <foreach name="v.attribute" item="vo">
+  <strong style="color:{$vo.color};padding:0 5px">[{$vo.name}]</strong>
+  </foreach>
+  </td>
+  <td>{$v.cate.name}</td>
+  <td>{$v.clink}</td>
+  <td>{$v.time|date='y-m-d H:i',###}</td>
+  <td>
+  <a href="{:U('Admin/Blog/moveblog',array('blog_id'=>$v[id]))}">移动到回收站</a>
+  <a href="{:U('Admin/Blog/changeblog',array('cblog_id'=>$v[id]))}">修改博文</a>
+  </td>
+  </tr>
+ </foreach>
+ </table>
+ </form>
+</body>

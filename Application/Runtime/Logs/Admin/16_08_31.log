@@ -1,0 +1,309 @@
+[ 2016-08-31T17:58:48+08:00 ] ::1 /tp/admin.php/Admin/Article/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.035051s ]
+
+[ 2016-08-31T17:58:48+08:00 ] ::1 /tp/admin.php/Admin/Article/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.034513s ]
+
+[ 2016-08-31T17:58:48+08:00 ] ::1 /tp/admin.php/Admin/Article/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000961s ]
+
+[ 2016-08-31T17:58:51+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+
+[ 2016-08-31T17:58:58+08:00 ] ::1 /tp/admin.php/Admin/Blog/%7B/tp/admin.php/Admin/blog/deleteblog%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+ERR: 非法操作:{
+
+[ 2016-08-31T19:34:57+08:00 ] ::1 /tp/admin.php/Admin/Blog/%7B/tp/admin.php/Admin/blog/deleteblog%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.018913s ]
+ERR: 非法操作:{
+
+[ 2016-08-31T20:54:41+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.021010s ]
+
+[ 2016-08-31T20:54:49+08:00 ] ::1 /tp/admin.php/Admin/Blog/deleteblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+
+[ 2016-08-31T20:55:15+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+
+[ 2016-08-31T20:56:23+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+
+[ 2016-08-31T20:58:16+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000808s ]
+
+[ 2016-08-31T20:58:18+08:00 ] ::1 /tp/admin.php/Admin/Blog/deleteblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+
+[ 2016-08-31T20:58:49+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+
+[ 2016-08-31T20:58:59+08:00 ] ::1 /tp/admin.php/Admin/Blog/addblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+
+[ 2016-08-31T20:59:01+08:00 ] ::1 /tp/admin.php/Admin/Attribute/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000878s ]
+
+[ 2016-08-31T20:59:02+08:00 ] ::1 /tp/admin.php/Admin/Attribute/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+
+[ 2016-08-31T20:59:04+08:00 ] ::1 /tp/admin.php/Admin/Cate/typesort
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+
+[ 2016-08-31T20:59:04+08:00 ] ::1 /tp/admin.php/Admin/Cate/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+
+[ 2016-08-31T20:59:05+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001171s ]
+
+[ 2016-08-31T21:00:50+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+
+[ 2016-08-31T21:00:51+08:00 ] ::1 /tp/admin.php/Admin/Blog/deleteblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+
+[ 2016-08-31T21:04:02+08:00 ] ::1 /tp/admin.php/Admin/Blog/addblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000871s ]
+
+[ 2016-08-31T21:05:12+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+
+[ 2016-08-31T21:05:14+08:00 ] ::1 /tp/admin.php/Admin/Blog/deleteblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001003s ]
+
+[ 2016-08-31T21:05:16+08:00 ] ::1 /tp/admin.php/Admin/Blog/deleteblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001016s ]
+
+[ 2016-08-31T21:05:19+08:00 ] ::1 /tp/admin.php/Admin/Blog/deleteblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000836s ]
+
+[ 2016-08-31T21:05:26+08:00 ] ::1 /tp/admin.php/Admin/Blog/deleteblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+
+[ 2016-08-31T21:06:07+08:00 ] ::1 /tp/admin.php/Admin/Blog/addblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+
+[ 2016-08-31T21:08:58+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+
+[ 2016-08-31T21:09:01+08:00 ] ::1 /tp/admin.php/Admin/Blog/deleteblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2016-08-31T21:09:11+08:00 ] ::1 /tp/admin.php/Admin/Blog/deleteblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+
+[ 2016-08-31T21:09:31+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+
+[ 2016-08-31T21:09:34+08:00 ] ::1 /tp/admin.php/Admin/Blog/deleteblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+
+[ 2016-08-31T21:11:30+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001054s ]
+
+[ 2016-08-31T21:12:46+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001237s ]
+
+[ 2016-08-31T21:12:48+08:00 ] ::1 /tp/admin.php/Admin/Blog/deleteblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000923s ]
+
+[ 2016-08-31T21:12:55+08:00 ] ::1 /tp/admin.php/Admin/Blog/deleteblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000890s ]
+
+[ 2016-08-31T21:17:20+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+
+[ 2016-08-31T21:17:21+08:00 ] ::1 /tp/admin.php/Admin/Blog/deleteblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+
+[ 2016-08-31T21:17:38+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+
+[ 2016-08-31T21:18:17+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+
+[ 2016-08-31T21:18:19+08:00 ] ::1 /tp/admin.php/Admin/Blog/deleteblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+
+[ 2016-08-31T21:19:20+08:00 ] ::1 /tp/admin.php/Admin/Blog/deleteblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+
+[ 2016-08-31T21:19:25+08:00 ] ::1 /tp/admin.php/Admin/Blog/deleteblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+
+[ 2016-08-31T21:21:11+08:00 ] ::1 /tp/admin.php/Admin/Article/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+
+[ 2016-08-31T21:21:11+08:00 ] ::1 /tp/admin.php/Admin/Article/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000867s ]
+
+[ 2016-08-31T21:21:13+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2016-08-31T21:21:15+08:00 ] ::1 /tp/admin.php/Admin/Blog/deleteblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+
+[ 2016-08-31T21:21:20+08:00 ] ::1 /tp/admin.php/Admin/Blog/deleteblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+
+[ 2016-08-31T21:21:42+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+
+[ 2016-08-31T21:21:43+08:00 ] ::1 /tp/admin.php/Admin/Blog/deleteblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+
+[ 2016-08-31T21:21:53+08:00 ] ::1 /tp/admin.php/Admin/Article/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2016-08-31T21:21:53+08:00 ] ::1 /tp/admin.php/Admin/Article/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000920s ]
+
+[ 2016-08-31T21:21:55+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+
+[ 2016-08-31T21:21:57+08:00 ] ::1 /tp/admin.php/Admin/Blog/deleteblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2016-08-31T21:22:00+08:00 ] ::1 /tp/admin.php/Admin/Blog/deleteblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2016-08-31T21:22:06+08:00 ] ::1 /tp/admin.php/Admin/Blog/deleteblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+
+[ 2016-08-31T21:22:36+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000149s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001210s ]
+
+[ 2016-08-31T21:22:37+08:00 ] ::1 /tp/admin.php/Admin/Blog/deleteblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2016-08-31T23:01:53+08:00 ] ::1 /tp/admin.php/Admin/Blog/deleteblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010499s ]
+ERR: Think\Model:setfild方法不存在！
+
+[ 2016-08-31T23:02:47+08:00 ] ::1 /tp/admin.php/Admin/Blog/deleteblog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+ERR: 模板不存在:./Application/Admin/View/Blog_deleteblog.html
+

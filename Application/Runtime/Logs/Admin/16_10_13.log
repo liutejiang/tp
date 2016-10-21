@@ -1,0 +1,10 @@
+[ 2016-10-13T21:19:39+08:00 ] ::1 /tp/admin.php/Admin/Article/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.039656s ]
+
+[ 2016-10-13T21:19:41+08:00 ] ::1 /tp/admin.php/Admin/Blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001219s ]
+

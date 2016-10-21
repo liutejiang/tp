@@ -1,0 +1,12 @@
+[ 2016-07-31T22:20:14+08:00 ] ::1 /tp/admin.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.064361s ]
+ERR: 无法加载模块:Index
+
+[ 2016-07-31T22:21:27+08:00 ] ::1 /tp/admin.php/article/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+ERR: 无法加载模块:Article
+

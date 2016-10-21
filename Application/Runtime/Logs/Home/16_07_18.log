@@ -1,0 +1,11 @@
+[ 2016-07-18T19:40:48+08:00 ] ::1 /tp/index.php/home/login/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.058670s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.029674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.029766s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.021196s ]
+INFO: [ app_end ] --END-- [ RunTime:0.021286s ]
+

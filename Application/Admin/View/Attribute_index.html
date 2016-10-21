@@ -1,0 +1,25 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<css file="__PUBLIC__/Css/public.css" />
+</head>
+<body>
+ <table class="table">
+  <tr>
+   <th>ID</th>
+   <th>属性名称</th>
+   <th>属性颜色</th>
+  </tr>
+  <foreach name="fontcolor" item="v">
+  <td><font size=3 color="{$v.fontcolor}">红色的</font></td>
+  </foreach>
+  <foreach name="attribute" item="vo">
+   <tr>
+    <td>{$vo.id}</td>
+    <td>{$vo.name}</td>
+    <td><font size="3" color="{$vo.color}">{$vo.color}</font></td>
+   </tr>
+   </foreach>
+ </table>
+ </form>
+</body>

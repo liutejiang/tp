@@ -1,0 +1,18 @@
+[ 2016-08-21T22:01:23+08:00 ] ::1 /tp/admin.php/tp/admin.php/Admin/Cate/changesort.html.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+ERR: 无法加载模块:Tp
+
+[ 2016-08-21T22:03:35+08:00 ] ::1 /tp/admin.php/tp/admin.php/Admin/Cate/changesort.html.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000868s ]
+ERR: 无法加载模块:Tp
+
+[ 2016-08-21T22:03:37+08:00 ] ::1 /tp/admin.php/tp/admin.php/Admin/Cate/changesort.html.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+ERR: 无法加载模块:Tp
+

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+ 	<meta charset="utf-8">
+ 	<title>刘鑫的博客首页</title>
+ 	<css file="__PUBLIC__/Css/Home/Index.css"/>
+ </head>
+ <body>
+ 	<div class="main-header">
+ 		<div class="navbar">
+ 			<div class="log">
+ 			  <div class="log_img"><a href="#"><img src=""></a></div>
+ 			</div>
+ 			<div class="navigation">
+ 				<ul class="nav_list">
+ 					<li class="nav_list_item"><a href="__CONTROLLER__/index" style="color: white">刘鑫的博客</a> </li>
+ 					<foreach name="cate_data" item="v">
+                            <li class="nav_list_item"><a href="{:U('Home/Index/showCateblog',array('cate_id'=>$v[id]))}">{$v.name}</a> </li>
+                    </foreach>
+ 				</ul>
+ 			</div>
+ 		</div>
+ 	</div>
+ <div class="body_container">
+ 	<div class="body_left">
+ 	 <div class="show_cate">
+ 	  
+ 	 </div>
+ 	</div>
+ 	<div class="body_center">
+ 	<foreach name="blog_article" item="v">
+ 	<div class="center_new" id="center_new1">
+			<div class="center_img" id="center_img1">
+				<a href="__PUBLIC__/{$v.picture}"><image src="__PUBLIC__/{$v.picture}"></a>
+			</div>
+			<div class="center_article" id="center_article1">
+				<div class="center_a" >
+				<div class="center_title" id="center_title1">
+					<span>{$v.title}</span>
+				</div>
+				<br/>
+			 <div class="center_js" id="center_js1">	
+				<div class="center_author" id="center_author1">
+					<span>{$v.}</span>
+				</div>
+				<div class="center_time" id="center_time1">
+					<span>{$v.time|date='y-m-d H:i',###}</span>
+				</div>
+			</div>
+			
+				<div class="center_content" id="center_content1" >
+				
+					<span>{$v.content}</span>
+				
+				</div>
+				
+			</div>
+				<br/>
+				<foreach name="v.attribute" item="v1">
+			<div class="center_footer" id="center_footer">
+				<span> <font color="{$v1.color}">{$v1.name}</font></span>
+			</div>
+			</foreach>
+			</div>
+		</div>
+		</foreach>
+		<div class="page">{$page}</div>
+	</div>
+		<div class="body_right">
+		 <table>
+		  <td>1</td>
+		 </table>
+		</div>
+ </div>
+ </body>
+</html>
